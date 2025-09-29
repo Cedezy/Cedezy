@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi there, I'm Zydece!<br><br>🎓 **4th year BSIT student** passionate about building web applications and exploring new technologies<br>💻 Currently learning and developing projects using the **MERN stack** (MongoDB, Express, React, Node.js) with Tailwind CSS<br>🚀 Excited to grow my skills in **JavaScript, React, and backend development**<br>🌱 Always open to learning and collaborating on projects that make an impact<br>📚 Preparing for my capstone and future career in **web development**<br><br>---<br><br><br>✨ *Thanks for visiting my profile — let’s build something amazing!* 🚀<br>
+## 👋 Hi there, I'm Zydece!<br><br>🎓 **4th year BSIT student** passionate about building web applications and exploring new technologies<br>💻 Currently learning and developing projects using the **MERN stack** (MongoDB, Express, React, Node.js) with Tailwind CSS<br>🚀 Excited to grow my skills in **JavaScript, React, and backend development**<br>🌱 Always open to learning and collaborating on projects that make an impact<br>📚 Preparing for my capstone and future career in **web development**<br><br>---<br><br><br>✨ *Thanks for visiting my profile — let’s build something amazing!* 🚀<br>
 
 
 ## 🌐 Socials:
